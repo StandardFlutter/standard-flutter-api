@@ -6,7 +6,7 @@
 
 ### 💻 Standard Flutter - Engenharia de Valor
 
-Este é o sistema de social networking do projeto Standard Flutter, com ele os usuários podem publicar notícias e imagens e interagir uns com os outros através de comentários e curtidas.
+Este é o sistema de Realtime do projeto Standard Flutter, com ele os usuários poderão se comunicar através de um chat com outros colegas ou/e com equipes internas, recebendo e enviando mensagens instantâneas, informações relevantes, imagens, links e relatórios.
 
 <br>
 
@@ -17,7 +17,7 @@ As principais ferramentas utilizadas:
 - [Laravel][laravel]
 - [Vue JS][vue]
 - [PHPUnit][phpunit]
-- [Tailwind CSS][tailwindcss]
+- [Laravel Echo][echo]
 - [Laravel Passport][passport]
 
 
@@ -25,6 +25,6 @@ As principais ferramentas utilizadas:
 [laravel]: https://laravel.com/
 [vue]: https://vuejs.org/
 [phpunit]: https://phpunit.de/
-[tailwindcss]: https://tailwindcss.com/
+[echo]: https://laravel.com/docs/master/broadcasting
 [passport]: https://laravel.com/docs/master/passport
 [license]: https://opensource.org/licenses/MIT
